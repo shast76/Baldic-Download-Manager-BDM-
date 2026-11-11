@@ -1,10 +1,13 @@
 # Baldic Download Manager
+<img width="320" height="200" alt="promo-small-440x280" src="https://github.com/user-attachments/assets/1ce11374-3e13-470c-87e5-a4a52d707f9b" />
 
-🇬🇧 English · 🇹🇷 [Türkçe](README.tr.md)
+<img width="320" height="200" alt="1" src="https://github.com/user-attachments/assets/c8296803-d9ed-4c06-957c-4b15dae3f8f8" />
 
-An open-source (MIT) IDM-style download manager with a **Material 3 Expressive** interface, yt-dlp / ffmpeg support and a Chrome extension. It runs as a standalone desktop app (its own window, no browser).
+<img width="320" height="200" alt="2" src="https://github.com/user-attachments/assets/13b13f04-28e7-43bc-b649-d881dff1277a" />
 
-![Dark theme](docs/screenshot-dark-en.png)
+
+
+An open-source (MIT) IDM-style download manager with a **Material 3 Expressive** interface, yt-dlp / ffmpeg support and a Chrome extension.
 
 ## Features
 - **Multi-connection downloads** (1–16 segments per file), pause / resume, resume after restart, queue (N at a time)
