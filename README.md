@@ -22,7 +22,7 @@ An open-source (MIT) IDM-style download manager with a **Material 3 Expressive**
 ## Installation
 
 ### Setup (Only on Windows)
-(`Baldic.exe` alone is a portable single file with its own window (it uses Windows' built-in WebView2).)
+(`BDM.exe` alone is a portable single file with its own window (it uses Windows' built-in WebView2).)
 
 - Install the Latest Release
 - And voila.
@@ -40,8 +40,7 @@ python app/baldic.py --no-window    # run in the background
 Then install yt-dlp and ffmpeg under **Settings → Tools** (or install them yourself and add them to PATH).
 
 ### Chrome extension
--It will be release future at `Chrome Web Store`
-
+[![Download](https://img.shields.io/badge/Download-Baldic_Download_Interceptor-orange)](https://chromewebstore.google.com/detail/baldic-download-intercept/goiplminekijjfkehjhkognfdhgggbnh?authuser=0&utm_source=app-launcher)
 ### Troubleshooting
 - **"Port 6877 is busy" message:** an earlier Baldic may still be running in the background. The new version detects this: it brings the open window to the front, or closes a windowless leftover process and takes over. If another program uses the port, start with `Baldic.exe --port 6900` (the extension expects 6877).
 
